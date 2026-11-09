@@ -19,8 +19,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 Building **production-grade ML pipelines**, from data ingestion to model serving
-- ✈️ Currently working on **[aviation-delay-predictor](https://github.com/devOzdemir/aviation-delay-predictor)**: flight-delay prediction on a 5.9M-row live dataset
-- ⚙️ Developing control software & ERP for industrial machinery at **Hydra Machinery**
+- ⚙️ Currently developing **industrial software** at my own company, **Hydra Machinery**: machine control systems & ERP
+- ✈️ Side project: **[aviation-delay-predictor](https://github.com/devOzdemir/aviation-delay-predictor)**, flight-delay prediction on a 5.9M-row live dataset
 - 🤖 Exploring **reinforcement learning** and **LLM applications**
 - 🌱 Always learning: MLOps, cloud infrastructure, model monitoring & drift detection
 
@@ -48,16 +48,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devOzdemir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devOzdemir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/stats.svg" alt="GitHub stats" />
+  <img height="180" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devOzdemir&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devOzdemir&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -65,10 +61,10 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/devOzdemir/aviation-delay-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devOzdemir&repo=aviation-delay-predictor&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/devOzdemir/mlops-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devOzdemir&repo=mlops-template&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/devOzdemir/model-drift-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devOzdemir&repo=model-drift-detection&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/devOzdemir/rfs-mlops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devOzdemir&repo=rfs-mlops&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/devOzdemir/aviation-delay-predictor"><img width="400" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/pin-aviation-delay-predictor.svg" alt="aviation-delay-predictor" /></a>
+  <a href="https://github.com/devOzdemir/mlops-template"><img width="400" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/pin-mlops-template.svg" alt="mlops-template" /></a>
+  <a href="https://github.com/devOzdemir/model-drift-detection"><img width="400" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/pin-model-drift-detection.svg" alt="model-drift-detection" /></a>
+  <a href="https://github.com/devOzdemir/rfs-mlops"><img width="400" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/pin-rfs-mlops.svg" alt="rfs-mlops" /></a>
 </p>
 
 ---

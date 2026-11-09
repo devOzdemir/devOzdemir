@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Update profile assets
 
 on:
   schedule:
@@ -10,11 +10,24 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats, language and repo cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >
+          python3 -I scripts/generate_cards.py ${{ github.repository_owner }} dist
+          aviation-delay-predictor mlops-template model-drift-detection rfs-mlops
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
