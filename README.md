@@ -48,12 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/stats.svg" alt="GitHub stats" />
-  <img height="180" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/top-langs.svg" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devOzdemir&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://raw.githubusercontent.com/devOzdemir/devOzdemir/output/overview.svg" alt="GitHub stats overview" />
 </p>
 
 ---
