@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devOzdemir&base=450&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=devOzdemir&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/devOzdemir?tab=followers"><img src="https://img.shields.io/github/followers/devOzdemir?label=Followers&style=for-the-badge&color=bb9af7&logo=github" alt="followers" /></a>
 </p>
 
