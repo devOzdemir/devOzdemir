@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/devOzdemir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+end-to-end+MLOps+pipelines+%F0%9F%9A%80;Airflow+%E2%80%A2+MLflow+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Turning+raw+data+into+deployed+models+%F0%9F%A7%A0;Industrial+automation+%40+Hydra+Machinery+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+end-to-end+MLOps+pipelines+%F0%9F%9A%80;Airflow+%E2%80%A2+MLflow+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Turning+raw+data+into+deployed+models+%F0%9F%A7%A0;Industrial+automation+%40+Hydra+Machinery+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
