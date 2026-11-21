@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140">
+<style>
+  .t { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-weight:600; font-size:18px; fill:#70a5fd; }
+  .l { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-size:14px; fill:#a9b1d6; }
+  .v { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-weight:700; font-size:14px; fill:#a9b1d6; }
+  .s { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-size:12px; fill:#a9b1d6; }
+  .big { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-weight:700; font-size:30px; fill:#70a5fd; }
+  .lab { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-size:14px; fill:#70a5fd; }
+  .rng { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-size:12px; fill:#7dcfff; }
+</style>
+<rect width="400" height="140" rx="6" fill="#1a1b27"/>
+<text x="25" y="35" class="t">mlops-template</text>
+<text x="25" y="62" class="s">Initial Template for mlops-pipeline, with dockerized</text><text x="25" y="80" class="s">airflow, mlflow, postgres, minio...</text><circle cx="31" cy="116" r="6" fill="#3572A5"/><text x="43" y="120" class="s">Python</text><text x="105" y="120" class="s"><tspan style="fill:#bf91f3">★</tspan> 0</text><text x="155" y="120" class="s"><tspan style="fill:#bf91f3">⑂</tspan> 1</text>
+</svg>
